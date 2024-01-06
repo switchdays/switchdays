@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Víctor Meseguer 👋
 
 <!--
 **switchdays/switchdays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
